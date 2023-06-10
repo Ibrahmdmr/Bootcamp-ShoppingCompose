@@ -18,10 +18,6 @@ import com.ibrahimdmr.shoppingcompose.feature.navigation.Icon
 import com.ibrahimdmr.shoppingcompose.feature.navigation.MainNavHost
 import com.ibrahimdmr.shoppingcompose.feature.navigation.TopLevelDestination
 
-/**
- * Created by ibrahimdmr on 29.05.2023
- */
-
 @Composable
 fun MainApp(
     modifier: Modifier = Modifier,
