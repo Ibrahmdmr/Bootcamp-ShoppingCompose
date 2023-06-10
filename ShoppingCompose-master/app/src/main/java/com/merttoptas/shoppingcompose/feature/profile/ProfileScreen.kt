@@ -1,4 +1,4 @@
-package com.merttoptas.shoppingcompose.feature.profile
+package com.ibrahimdmr.shoppingcompose.feature.profile
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
