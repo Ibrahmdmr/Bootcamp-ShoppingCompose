@@ -44,14 +44,10 @@ import com.google.android.gms.common.api.ApiException
 import com.google.firebase.auth.AuthResult
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.auth.GoogleAuthProvider
-import com.merttoptas.shoppingcompose.R
-import com.merttoptas.shoppingcompose.ui.theme.ShoppingComposeTheme
+import com.ibrahimdmr.shoppingcompose.R
+import com.ibrahimdmr.shoppingcompose.ui.theme.ShoppingComposeTheme
 import kotlinx.coroutines.launch
 import kotlinx.coroutines.tasks.await
-
-/**
- * Created by mertcantoptas on 29.05.2023
- */
 
 @Composable
 internal fun LoginScreenRoute(
