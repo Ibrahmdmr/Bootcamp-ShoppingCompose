@@ -1,13 +1,9 @@
 package com.ibrahimdmr.shoppingcompose.core.data.remote.api
 
-import com.merttoptas.shoppingcompose.core.data.model.LoginBody
-import com.merttoptas.shoppingcompose.core.data.model.LoginResponse
+import com.ibrahimdmr.shoppingcompose.core.data.model.LoginBody
+import com.ibrahimdmr.shoppingcompose.core.data.model.LoginResponse
 import retrofit2.http.Body
 import retrofit2.http.POST
-
-/**
- * Created by mertcantoptas on 26.05.2023
- */
 
 interface AuthService {
 
