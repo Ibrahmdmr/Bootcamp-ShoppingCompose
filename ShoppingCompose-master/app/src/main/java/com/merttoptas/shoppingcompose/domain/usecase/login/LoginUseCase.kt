@@ -1,4 +1,4 @@
-package com.merttoptas.shoppingcompose.domain.usecase.login
+package com.ibrahimdmr.shoppingcompose.domain.usecase.login
 
 import com.merttoptas.shoppingcompose.core.data.model.LoginResponse
 import com.merttoptas.shoppingcompose.core.data.remote.repository.AuthRepository
