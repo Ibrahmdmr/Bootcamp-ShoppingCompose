@@ -9,14 +9,11 @@ import androidx.compose.material.icons.outlined.Home
 import androidx.compose.material.icons.outlined.Info
 import androidx.compose.material.icons.outlined.Person
 import androidx.compose.ui.graphics.vector.ImageVector
-import com.merttoptas.shoppingcompose.R
-import com.merttoptas.shoppingcompose.feature.category.navigation.CategoryNavigationRoute
-import com.merttoptas.shoppingcompose.feature.home.navigation.HomeNavigationRoute
-import com.merttoptas.shoppingcompose.feature.profile.navigation.ProfileNavigationRoute
+import com.ibrahimdmr.shoppingcompose.R
+import com.ibrahimdmr.shoppingcompose.feature.category.navigation.CategoryNavigationRoute
+import com.ibrahimdmr.shoppingcompose.feature.home.navigation.HomeNavigationRoute
+import com.ibrahimdmr.shoppingcompose.feature.profile.navigation.ProfileNavigationRoute
 
-/**
- * Created by mertcantoptas on 01.06.2023
- */
 enum class TopLevelDestination(
     val route: String,
     val selectedIcon: Icon,
