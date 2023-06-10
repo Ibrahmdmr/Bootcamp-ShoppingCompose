@@ -1,8 +1,8 @@
-package com.merttoptas.shoppingcompose.core.data.remote.source
+package com.ibrahimdmr.shoppingcompose.core.data.remote.source
 
-import com.merttoptas.shoppingcompose.core.data.model.LoginBody
-import com.merttoptas.shoppingcompose.core.data.model.LoginResponse
-import com.merttoptas.shoppingcompose.core.data.remote.api.AuthService
+import com.ibrahimdmr.shoppingcompose.core.data.model.LoginBody
+import com.ibrahimdmr.shoppingcompose.core.data.model.LoginResponse
+import com.ibrahimdmr.shoppingcompose.core.data.remote.api.AuthService
 import javax.inject.Inject
 
 /**
