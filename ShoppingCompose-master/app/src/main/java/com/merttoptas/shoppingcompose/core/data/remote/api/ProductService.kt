@@ -1,11 +1,8 @@
 package com.ibrahimdmr.shoppingcompose.core.data.remote.api
 
-import com.merttoptas.shoppingcompose.core.data.model.ProductResponse
+import com.ibrahimdmr.shoppingcompose.core.data.model.ProductResponse
 import retrofit2.http.GET
 
-/**
- * Created by mertcantoptas on 01.06.2023
- */
 interface ProductService {
     @GET("products")
     suspend fun getProducts(): List<ProductResponse>
