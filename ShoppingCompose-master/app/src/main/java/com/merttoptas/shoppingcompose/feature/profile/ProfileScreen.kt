@@ -8,10 +8,6 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 
-/**
- * Created by mertcantoptas on 01.06.2023
- */
-
 @Composable
 internal fun ProfileScreenRoute(
     modifier: Modifier = Modifier,
