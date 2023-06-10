@@ -1,4 +1,4 @@
-package com.merttoptas.shoppingcompose.core.data.di
+package com.ibrahimdmr.shoppingcompose.core.data.di
 
 import com.merttoptas.shoppingcompose.core.data.remote.repository.AuthRepository
 import com.merttoptas.shoppingcompose.core.data.remote.repository.impl.AuthRepositoryImpl
