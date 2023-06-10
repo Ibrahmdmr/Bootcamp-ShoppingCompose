@@ -1,4 +1,4 @@
-package com.merttoptas.shoppingcompose.feature.productdetail
+package com.ibrahimdmr.shoppingcompose.feature.productdetail
 
 import androidx.lifecycle.SavedStateHandle
 import androidx.lifecycle.ViewModel
