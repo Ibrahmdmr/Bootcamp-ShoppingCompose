@@ -1,4 +1,4 @@
-package com.merttoptas.shoppingcompose.core.data.remote.repository.impl
+package com.ibrahimdmr.shoppingcompose.core.data.remote.repository.impl
 
 import com.merttoptas.shoppingcompose.core.data.model.ProductResponse
 import com.merttoptas.shoppingcompose.core.data.remote.repository.ProductRepository
