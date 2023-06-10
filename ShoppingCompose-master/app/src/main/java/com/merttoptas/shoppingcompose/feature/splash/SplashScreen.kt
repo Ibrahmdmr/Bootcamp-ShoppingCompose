@@ -1,4 +1,4 @@
-package com.merttoptas.shoppingcompose.feature.splash
+package com.ibrahimdmr.shoppingcompose.feature.splash
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
