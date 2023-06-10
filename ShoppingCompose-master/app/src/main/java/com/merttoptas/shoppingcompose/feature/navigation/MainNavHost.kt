@@ -1,4 +1,4 @@
-package com.merttoptas.shoppingcompose.feature.navigation
+package com.ibrahimdmr.shoppingcompose.feature.navigation
 
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
