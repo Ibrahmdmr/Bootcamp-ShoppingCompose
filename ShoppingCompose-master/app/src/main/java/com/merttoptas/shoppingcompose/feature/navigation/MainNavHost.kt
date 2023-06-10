@@ -4,20 +4,16 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
-import com.merttoptas.shoppingcompose.feature.category.navigation.categoryScreen
-import com.merttoptas.shoppingcompose.feature.home.navigation.HomeNavigationRoute
-import com.merttoptas.shoppingcompose.feature.home.navigation.homeScreen
-import com.merttoptas.shoppingcompose.feature.login.navigation.LoginNavigationRoute
-import com.merttoptas.shoppingcompose.feature.login.navigation.loginScreen
-import com.merttoptas.shoppingcompose.feature.productdetail.navigation.navigateToProductDetail
-import com.merttoptas.shoppingcompose.feature.productdetail.navigation.productDetailScreen
-import com.merttoptas.shoppingcompose.feature.profile.navigation.profileScreen
-import com.merttoptas.shoppingcompose.feature.splash.navigation.SplashNavigationRoute
-import com.merttoptas.shoppingcompose.feature.splash.navigation.splashScreen
-
-/**
- * Created by mertcantoptas on 29.05.2023
- */
+import com.ibrahimdmr.shoppingcompose.feature.category.navigation.categoryScreen
+import com.ibrahimdmr.shoppingcompose.feature.home.navigation.HomeNavigationRoute
+import com.ibrahimdmr.shoppingcompose.feature.home.navigation.homeScreen
+import com.ibrahimdmr.shoppingcompose.feature.login.navigation.LoginNavigationRoute
+import com.ibrahimdmr.shoppingcompose.feature.login.navigation.loginScreen
+import com.ibrahimdmr.shoppingcompose.feature.productdetail.navigation.navigateToProductDetail
+import com.ibrahimdmr.shoppingcompose.feature.productdetail.navigation.productDetailScreen
+import com.ibrahimdmr.shoppingcompose.feature.profile.navigation.profileScreen
+import com.ibrahimdmr.shoppingcompose.feature.splash.navigation.SplashNavigationRoute
+import com.ibrahimdmr.shoppingcompose.feature.splash.navigation.splashScreen
 
 @Composable
 fun MainNavHost(
