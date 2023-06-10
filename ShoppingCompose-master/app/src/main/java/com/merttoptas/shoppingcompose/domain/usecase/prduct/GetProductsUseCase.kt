@@ -6,9 +6,6 @@ import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.flow
 import javax.inject.Inject
 
-/**
- * Created by ibrahimdmr on 01.06.2023
- */
 class GetProductsUseCase @Inject constructor(private val productRepository: ProductRepository) {
     operator fun invoke(): Flow<List<ProductResponse>> {
         return flow {
