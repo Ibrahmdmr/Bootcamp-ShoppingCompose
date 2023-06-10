@@ -1,4 +1,4 @@
-package com.merttoptas.shoppingcompose.feature.login
+package com.ibrahimdmr.shoppingcompose.feature.login
 
 import android.content.Intent
 import android.widget.Toast
