@@ -1,4 +1,4 @@
-package com.merttoptas.shoppingcompose.feature.login.navigation
+package com.ibrahimdmr.shoppingcompose.feature.login.navigation
 
 import androidx.navigation.NavGraphBuilder
 import androidx.navigation.compose.composable
