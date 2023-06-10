@@ -6,11 +6,8 @@ import androidx.navigation.NavOptions
 import androidx.navigation.NavType
 import androidx.navigation.compose.composable
 import androidx.navigation.navArgument
-import com.merttoptas.shoppingcompose.feature.productdetail.ProductDetailRoute
+import com.ibrahimdmr.shoppingcompose.feature.productdetail.ProductDetailRoute
 
-/**
- * Created by mertcantoptas on 01.06.2023
- */
 const val ProductDetailNavigationRoute = "product_detail_route"
 
 fun NavController.navigateToProductDetail(
