@@ -1,4 +1,4 @@
-package com.merttoptas.shoppingcompose.feature.splash
+package com.ibrahimdmr.shoppingcompose.feature.splash
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
