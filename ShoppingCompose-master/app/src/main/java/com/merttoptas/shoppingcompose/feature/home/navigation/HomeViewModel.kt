@@ -1,4 +1,4 @@
-package com.merttoptas.shoppingcompose.feature.home.navigation
+package com.ibrahimdmr.shoppingcompose.feature.home.navigation
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
