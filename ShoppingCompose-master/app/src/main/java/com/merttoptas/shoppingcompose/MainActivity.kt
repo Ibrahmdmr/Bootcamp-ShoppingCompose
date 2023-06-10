@@ -1,4 +1,4 @@
-package com.merttoptas.shoppingcompose
+package com.ibrahimdmr.shoppingcompose
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
