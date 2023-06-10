@@ -1,13 +1,13 @@
-package com.merttoptas.shoppingcompose.domain.usecase.prduct
+package com.ibrahimdmr.shoppingcompose.domain.usecase.prduct
 
-import com.merttoptas.shoppingcompose.core.data.model.ProductResponse
-import com.merttoptas.shoppingcompose.core.data.remote.repository.ProductRepository
+import com.ibrahimdmr.shoppingcompose.core.data.model.ProductResponse
+import com.ibrahimdmr.shoppingcompose.core.data.remote.repository.ProductRepository
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.flow
 import javax.inject.Inject
 
 /**
- * Created by mertcantoptas on 01.06.2023
+ * Created by ibrahimdmr on 01.06.2023
  */
 class GetProductsUseCase @Inject constructor(private val productRepository: ProductRepository) {
     operator fun invoke(): Flow<List<ProductResponse>> {
