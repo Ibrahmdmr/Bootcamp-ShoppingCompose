@@ -1,6 +1,6 @@
 @file:OptIn(ExperimentalMaterial3Api::class)
 
-package com.merttoptas.shoppingcompose.feature.appstate
+package com.ibrahimdmr.shoppingcompose.feature.appstate
 
 import androidx.compose.animation.AnimatedVisibility
 import androidx.compose.foundation.layout.padding
