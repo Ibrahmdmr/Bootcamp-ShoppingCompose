@@ -21,10 +21,10 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 import androidx.hilt.navigation.compose.hiltViewModel
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
-import com.merttoptas.shoppingcompose.ui.components.ProductCard
+import com.ibrahimdmr.shoppingcompose.ui.components.ProductCard
 
 /**
- * Created by mertcantoptas on 30.05.2023
+ * Created by ibrahimdmr on 30.05.2023
  */
 @Composable
 internal fun HomeScreenRoute(
