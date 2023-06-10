@@ -1,4 +1,4 @@
-package com.merttoptas.shoppingcompose.core.data.remote.api
+package com.ibrahimdmr.shoppingcompose.core.data.remote.api
 
 import com.merttoptas.shoppingcompose.core.data.model.ProductResponse
 import retrofit2.http.GET
