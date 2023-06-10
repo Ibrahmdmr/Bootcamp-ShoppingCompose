@@ -1,4 +1,4 @@
-package com.merttoptas.shoppingcompose.core.common
+package com.ibrahimdmr.shoppingcompose.core.common
 
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.catch
