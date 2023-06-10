@@ -11,15 +11,15 @@ import androidx.navigation.NavHostController
 import androidx.navigation.compose.currentBackStackEntryAsState
 import androidx.navigation.compose.rememberNavController
 import androidx.navigation.navOptions
-import com.merttoptas.shoppingcompose.feature.category.navigation.navigateToCategory
-import com.merttoptas.shoppingcompose.feature.home.navigation.HomeNavigationRoute
-import com.merttoptas.shoppingcompose.feature.home.navigation.navigateToHome
-import com.merttoptas.shoppingcompose.feature.navigation.TopLevelDestination
-import com.merttoptas.shoppingcompose.feature.profile.navigation.navigateToProfile
+import com.ibrahimdmr.shoppingcompose.feature.category.navigation.navigateToCategory
+import com.ibrahimdmr.shoppingcompose.feature.home.navigation.HomeNavigationRoute
+import com.ibrahimdmr.shoppingcompose.feature.home.navigation.navigateToHome
+import com.ibrahimdmr.shoppingcompose.feature.navigation.TopLevelDestination
+import com.ibrahimdmr.shoppingcompose.feature.profile.navigation.navigateToProfile
 import kotlinx.coroutines.CoroutineScope
 
 /**
- * Created by mertcantoptas on 29.05.2023
+ * Created by ibrahimdmr on 29.05.2023
  */
 
 @Composable
