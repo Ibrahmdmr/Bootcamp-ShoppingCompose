@@ -1,4 +1,4 @@
-package com.merttoptas.shoppingcompose
+package com.ibrahimdmr.shoppingcompose
 
 import android.app.Application
 import com.google.firebase.FirebaseApp
