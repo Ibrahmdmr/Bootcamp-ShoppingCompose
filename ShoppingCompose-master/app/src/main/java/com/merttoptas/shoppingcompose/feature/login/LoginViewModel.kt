@@ -2,19 +2,15 @@ package com.ibrahimdmr.shoppingcompose.feature.login
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.merttoptas.shoppingcompose.core.common.Resource
-import com.merttoptas.shoppingcompose.core.common.asResource
-import com.merttoptas.shoppingcompose.domain.usecase.login.LoginUseCase
+import com.ibrahimdmr.shoppingcompose.core.common.Resource
+import com.ibrahimdmr.shoppingcompose.core.common.asResource
+import com.ibrahimdmr.shoppingcompose.domain.usecase.login.LoginUseCase
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.launchIn
 import kotlinx.coroutines.flow.onEach
 import kotlinx.coroutines.launch
 import javax.inject.Inject
-
-/**
- * Created by mertcantoptas on 29.05.2023
- */
 
 @HiltViewModel
 class LoginViewModel @Inject constructor(private val loginUseCase: LoginUseCase) : ViewModel() {
