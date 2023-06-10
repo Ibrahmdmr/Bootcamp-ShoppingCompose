@@ -2,21 +2,17 @@ package com.ibrahimdmr.shoppingcompose.feature.home.navigation
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.merttoptas.shoppingcompose.core.common.Resource
-import com.merttoptas.shoppingcompose.core.common.asResource
-import com.merttoptas.shoppingcompose.core.data.model.ProductResponse
-import com.merttoptas.shoppingcompose.domain.usecase.prduct.GetProductsUseCase
-import com.merttoptas.shoppingcompose.feature.login.LoginUiState
+import com.ibrahimdmr.shoppingcompose.core.common.Resource
+import com.ibrahimdmr.shoppingcompose.core.common.asResource
+import com.ibrahimdmr.shoppingcompose.core.data.model.ProductResponse
+import com.ibrahimdmr.shoppingcompose.domain.usecase.prduct.GetProductsUseCase
+import com.ibrahimdmr.shoppingcompose.feature.login.LoginUiState
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.launchIn
 import kotlinx.coroutines.flow.onEach
 import kotlinx.coroutines.launch
 import javax.inject.Inject
-
-/**
- * Created by mertcantoptas on 01.06.2023
- */
 
 @HiltViewModel
 class HomeViewModel @Inject constructor(
