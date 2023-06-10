@@ -1,4 +1,4 @@
-package com.merttoptas.shoppingcompose.feature.category.navigation
+package com.ibrahimdmr.shoppingcompose.feature.category.navigation
 
 import androidx.navigation.NavController
 import androidx.navigation.NavGraphBuilder
