@@ -14,11 +14,8 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
-import com.merttoptas.shoppingcompose.core.data.model.ProductResponse
+import com.ibrahimdmr.shoppingcompose.core.data.model.ProductResponse
 
-/**
- * Created by mertcantoptas on 01.06.2023
- */
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun ProductCard(
