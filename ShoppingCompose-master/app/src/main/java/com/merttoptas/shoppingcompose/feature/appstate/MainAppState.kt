@@ -1,4 +1,4 @@
-package com.merttoptas.shoppingcompose.feature.appstate
+package com.ibrahimdmr.shoppingcompose.feature.appstate
 
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.Stable
