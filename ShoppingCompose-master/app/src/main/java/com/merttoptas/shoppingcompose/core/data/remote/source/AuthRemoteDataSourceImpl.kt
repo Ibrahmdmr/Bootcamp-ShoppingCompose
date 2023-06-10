@@ -5,10 +5,6 @@ import com.ibrahimdmr.shoppingcompose.core.data.model.LoginResponse
 import com.ibrahimdmr.shoppingcompose.core.data.remote.api.AuthService
 import javax.inject.Inject
 
-/**
- * Created by mertcantoptas on 26.05.2023
- */
-
 class AuthRemoteDataSourceImpl @Inject constructor(
     private val authService: AuthService
 ) : AuthRemoteDataSource {
