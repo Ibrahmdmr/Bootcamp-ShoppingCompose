@@ -1,4 +1,4 @@
-package com.merttoptas.shoppingcompose.core.data.model
+package com.ibrahimdmr.shoppingcompose.core.data.model
 
 /**
  * Created by mertcantoptas on 26.05.2023
