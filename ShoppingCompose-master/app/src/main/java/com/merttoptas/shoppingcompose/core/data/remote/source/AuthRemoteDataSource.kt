@@ -1,6 +1,6 @@
-package com.merttoptas.shoppingcompose.core.data.remote.source
+package com.ibrahimdmr.shoppingcompose.core.data.remote.source
 
-import com.merttoptas.shoppingcompose.core.data.model.LoginResponse
+import com.ibrahimdmr.shoppingcompose.core.data.model.LoginResponse
 
 /**
  * Created by mertcantoptas on 26.05.2023
