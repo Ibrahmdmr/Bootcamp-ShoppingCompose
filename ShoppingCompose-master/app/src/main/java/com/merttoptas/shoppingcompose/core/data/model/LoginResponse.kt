@@ -1,4 +1,4 @@
-package com.merttoptas.shoppingcompose.core.data.model
+package com.ibrahimdmr.shoppingcompose.core.data.model
 
 import com.google.gson.annotations.SerializedName
 
