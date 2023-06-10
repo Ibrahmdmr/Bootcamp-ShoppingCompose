@@ -12,9 +12,6 @@ import androidx.compose.ui.Modifier
 import androidx.hilt.navigation.compose.hiltViewModel
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
 
-/**
- * Created by mertcantoptas on 30.05.2023
- */
 @Composable
 internal fun SplashScreenRoute(
     modifier: Modifier = Modifier,
