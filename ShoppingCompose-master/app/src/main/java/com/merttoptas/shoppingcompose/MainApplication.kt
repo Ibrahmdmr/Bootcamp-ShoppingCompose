@@ -5,7 +5,7 @@ import com.google.firebase.FirebaseApp
 import dagger.hilt.android.HiltAndroidApp
 
 /**
- * Created by mertcantoptas on 26.05.2023
+ * Created by ibrahimdmr on 26.05.2023
  */
 
 @HiltAndroidApp
