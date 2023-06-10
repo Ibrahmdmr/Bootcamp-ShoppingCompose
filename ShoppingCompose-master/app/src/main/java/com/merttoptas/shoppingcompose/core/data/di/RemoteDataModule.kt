@@ -1,8 +1,8 @@
 package com.ibrahimdmr.shoppingcompose.core.data.di
 
 import com.google.firebase.FirebaseApp
-import com.merttoptas.shoppingcompose.core.data.remote.api.AuthService
-import com.merttoptas.shoppingcompose.core.data.remote.api.ProductService
+import com.ibrahimdmr.shoppingcompose.core.data.remote.api.AuthService
+import com.ibrahimdmr.shoppingcompose.core.data.remote.api.ProductService
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn
@@ -13,10 +13,6 @@ import okhttp3.logging.HttpLoggingInterceptor
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 import javax.inject.Singleton
-
-/**
- * Created by mertcantoptas on 26.05.2023
- */
 
 @Module
 @InstallIn(SingletonComponent::class)
