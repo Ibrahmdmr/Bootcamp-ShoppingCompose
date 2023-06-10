@@ -3,20 +3,16 @@ package com.ibrahimdmr.shoppingcompose.feature.productdetail
 import androidx.lifecycle.SavedStateHandle
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.merttoptas.shoppingcompose.core.common.Resource
-import com.merttoptas.shoppingcompose.core.common.asResource
-import com.merttoptas.shoppingcompose.core.data.model.ProductResponse
-import com.merttoptas.shoppingcompose.domain.usecase.prduct.GetProductDetailUseCase
+import com.ibrahimdmr.shoppingcompose.core.common.Resource
+import com.ibrahimdmr.shoppingcompose.core.common.asResource
+import com.ibrahimdmr.shoppingcompose.core.data.model.ProductResponse
+import com.ibrahimdmr.shoppingcompose.domain.usecase.prduct.GetProductDetailUseCase
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.launchIn
 import kotlinx.coroutines.flow.onEach
 import kotlinx.coroutines.launch
 import javax.inject.Inject
-
-/**
- * Created by mertcantoptas on 01.06.2023
- */
 
 @HiltViewModel
 class ProductDetailViewModel @Inject constructor(
