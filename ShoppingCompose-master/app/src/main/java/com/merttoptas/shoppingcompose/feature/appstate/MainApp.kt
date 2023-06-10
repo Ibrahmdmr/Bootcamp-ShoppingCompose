@@ -14,12 +14,12 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.res.stringResource
 import androidx.navigation.NavDestination
 import androidx.navigation.NavDestination.Companion.hierarchy
-import com.merttoptas.shoppingcompose.feature.navigation.Icon
-import com.merttoptas.shoppingcompose.feature.navigation.MainNavHost
-import com.merttoptas.shoppingcompose.feature.navigation.TopLevelDestination
+import com.ibrahimdmr.shoppingcompose.feature.navigation.Icon
+import com.ibrahimdmr.shoppingcompose.feature.navigation.MainNavHost
+import com.ibrahimdmr.shoppingcompose.feature.navigation.TopLevelDestination
 
 /**
- * Created by mertcantoptas on 29.05.2023
+ * Created by ibrahimdmr on 29.05.2023
  */
 
 @Composable
