@@ -1,6 +1,6 @@
 @file:OptIn(ExperimentalMaterial3Api::class)
 
-package com.merttoptas.shoppingcompose.feature.productdetail
+package com.ibrahimdmr.shoppingcompose.feature.productdetail
 
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Spacer
