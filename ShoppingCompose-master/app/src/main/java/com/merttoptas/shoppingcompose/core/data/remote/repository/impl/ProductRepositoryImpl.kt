@@ -1,13 +1,10 @@
 package com.ibrahimdmr.shoppingcompose.core.data.remote.repository.impl
 
-import com.merttoptas.shoppingcompose.core.data.model.ProductResponse
-import com.merttoptas.shoppingcompose.core.data.remote.repository.ProductRepository
-import com.merttoptas.shoppingcompose.core.data.remote.source.ProductRemoteDataSource
+import com.ibrahimdmr.shoppingcompose.core.data.model.ProductResponse
+import com.ibrahimdmr.shoppingcompose.core.data.remote.repository.ProductRepository
+import com.ibrahimdmr.shoppingcompose.core.data.remote.source.ProductRemoteDataSource
 import javax.inject.Inject
 
-/**
- * Created by mertcantoptas on 01.06.2023
- */
 class ProductRepositoryImpl @Inject constructor(
     private val productRemoteDataSource: ProductRemoteDataSource
 ) : ProductRepository {
