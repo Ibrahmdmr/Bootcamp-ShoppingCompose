@@ -18,9 +18,6 @@ import com.ibrahimdmr.shoppingcompose.feature.navigation.TopLevelDestination
 import com.ibrahimdmr.shoppingcompose.feature.profile.navigation.navigateToProfile
 import kotlinx.coroutines.CoroutineScope
 
-/**
- * Created by ibrahimdmr on 29.05.2023
- */
 
 @Composable
 fun rememberMainAppState(
