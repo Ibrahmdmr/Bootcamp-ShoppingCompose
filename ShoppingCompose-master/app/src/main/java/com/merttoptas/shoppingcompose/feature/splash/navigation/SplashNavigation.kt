@@ -1,4 +1,4 @@
-package com.merttoptas.shoppingcompose.feature.splash.navigation
+package com.ibrahimdmr.shoppingcompose.feature.splash.navigation
 
 import androidx.navigation.NavGraphBuilder
 import androidx.navigation.compose.composable
