@@ -9,10 +9,6 @@ import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.launch
 import javax.inject.Inject
 
-/**
- * Created by mertcantoptas on 30.05.2023
- */
-
 @HiltViewModel
 class SplashViewModel @Inject constructor() : ViewModel() {
     private val _uiState: MutableStateFlow<SplashUiState> = MutableStateFlow(SplashUiState())
