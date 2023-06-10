@@ -1,4 +1,4 @@
-package com.merttoptas.shoppingcompose.ui.theme
+package com.ibrahimdmr.shoppingcompose.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
