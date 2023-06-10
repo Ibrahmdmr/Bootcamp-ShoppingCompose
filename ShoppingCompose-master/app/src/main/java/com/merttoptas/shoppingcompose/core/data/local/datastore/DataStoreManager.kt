@@ -1,4 +1,4 @@
-package com.merttoptas.shoppingcompose.core.data.local.datastore
+package com.ibrahimdmr.shoppingcompose.core.data.local.datastore
 
 import android.content.Context
 import androidx.datastore.core.DataStore
