@@ -6,7 +6,7 @@ import androidx.navigation.NavOptions
 import androidx.navigation.compose.composable
 
 /**
- * Created by mertcantoptas on 30.05.2023
+ * Created by ibrahimdmr on 30.05.2023
  */
 const val HomeNavigationRoute = "home_route"
 
