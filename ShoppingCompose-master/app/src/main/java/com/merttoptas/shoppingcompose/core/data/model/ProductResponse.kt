@@ -2,9 +2,6 @@ package com.ibrahimdmr.shoppingcompose.core.data.model
 
 import com.google.gson.annotations.SerializedName
 
-/**
- * Created by mertcantoptas on 01.06.2023
- */
 data class ProductResponse(
     @SerializedName("id")
     val id: Int?,
