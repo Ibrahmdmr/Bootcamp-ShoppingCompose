@@ -18,10 +18,6 @@ import androidx.compose.ui.unit.dp
 import androidx.hilt.navigation.compose.hiltViewModel
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
 
-/**
- * Created by mertcantoptas on 01.06.2023
- */
-
 @Composable
 internal fun ProductDetailRoute(
     modifier: Modifier = Modifier,
