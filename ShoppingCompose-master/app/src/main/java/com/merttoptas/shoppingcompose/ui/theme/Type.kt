@@ -1,4 +1,4 @@
-package com.merttoptas.shoppingcompose.ui.theme
+package com.ibrahimdmr.shoppingcompose.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
