@@ -5,10 +5,6 @@ import kotlinx.coroutines.flow.catch
 import kotlinx.coroutines.flow.map
 import kotlinx.coroutines.flow.onStart
 
-/**
- * Created by mertcantoptas on 26.05.2023
- */
-
 sealed interface Resource<out T> {
     data class Success<out T>(val data: T) : Resource<T>
     data class Error(val exception: Throwable? = null) : Resource<Nothing>
