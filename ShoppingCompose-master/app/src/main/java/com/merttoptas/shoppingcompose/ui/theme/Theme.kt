@@ -1,4 +1,4 @@
-package com.merttoptas.shoppingcompose.ui.theme
+package com.ibrahimdmr.shoppingcompose.ui.theme
 
 import android.app.Activity
 import android.os.Build
