@@ -1,4 +1,4 @@
-package com.merttoptas.shoppingcompose.ui.components
+package com.ibrahimdmr.shoppingcompose.ui.components
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
