@@ -23,9 +23,6 @@ import androidx.hilt.navigation.compose.hiltViewModel
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import com.ibrahimdmr.shoppingcompose.ui.components.ProductCard
 
-/**
- * Created by ibrahimdmr on 30.05.2023
- */
 @Composable
 internal fun HomeScreenRoute(
     modifier: Modifier = Modifier,
