@@ -5,9 +5,6 @@ import androidx.navigation.NavGraphBuilder
 import androidx.navigation.NavOptions
 import androidx.navigation.compose.composable
 
-/**
- * Created by ibrahimdmr on 30.05.2023
- */
 const val HomeNavigationRoute = "home_route"
 
 fun NavController.navigateToHome(
