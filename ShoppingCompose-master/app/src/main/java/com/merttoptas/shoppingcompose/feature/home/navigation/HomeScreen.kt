@@ -1,6 +1,6 @@
 @file:OptIn(ExperimentalMaterial3Api::class)
 
-package com.merttoptas.shoppingcompose.feature.home.navigation
+package com.ibrahimdmr.shoppingcompose.feature.home.navigation
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
